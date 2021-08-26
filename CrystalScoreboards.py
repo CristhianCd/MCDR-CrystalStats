@@ -5,12 +5,12 @@
 
 
 PLUGIN_METADATA = {
-    'id': 'crystal_scoreboards',
+    'id': 'crystal_stats',
     'version': '1.0',
-    'name': 'Crystal Scoreboards',
+    'name': 'Crystal Stats',
     'description': 'Plugin for show scoreboards',
     'author': 'CristhianCd',
-    'link': 'https://github.com/CristhianCd/MCDR-CrystalScoreboards'
+    'link': 'https://github.com/CristhianCd/MCDR-CrystalStats'
 }
 
 
