@@ -21,7 +21,7 @@ def help(server):
  §d!!s: §7Show help message
  §d!!s hide: §7Hide scoreboard
  §d!!s show: §7Show scoreboard
- §d!!s §5<class> <target>: §7Show help message
+ §d!!s §5<class> <target>: §7Create scoreboard and display
  §d<class> : §7used, mined, broken, crafted, dropped, custom
  ''')
     
