@@ -71,8 +71,7 @@ def on_info(server, info):
                 displayScoreboard(server)
         elif cl == 3:
             statclass = c[1]
-            target = c[2]
-            
+            target = c[2]          
             removeScoreboard(server)
             createScoreboard(statclass, target, server)
             displayScoreboard(server)
