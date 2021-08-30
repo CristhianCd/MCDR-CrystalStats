@@ -10,6 +10,7 @@ import json
 stats_path = "server/world/stats/"
 usercache_path = "server/usercache.json"
 
+
 PLUGIN_METADATA = {
     'id': 'crystal_stats',
     'version': '1.1',
