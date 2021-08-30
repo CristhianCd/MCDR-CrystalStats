@@ -76,7 +76,8 @@ def statClass(statclass, target):
 def createScoreboard(statclass, target, server):  
     server.execute(f"scoreboard objectives add CrystalStats {criteria} §5{statclass}.§d{target}")
 
-
+    
+# When I stopped being lazy I optimize the zzz code
 def getRank(server):
     list = []
     le = []
