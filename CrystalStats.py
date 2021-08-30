@@ -144,10 +144,5 @@ def on_info(server, info):
         else: 
             server.say('Error, use !!s for show plugin help')
 
-
-def on_player_joined(server, player: str, info):
-    server.say(f'§dWelcome §7{player} §dto §7Crystal SMP')
-    
-
 def on_load(server, old):
     server.register_help_message('!!s', 'Crystal scoreboards tool')
